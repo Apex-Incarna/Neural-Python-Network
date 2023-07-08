@@ -1,0 +1,36 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.4",
+    "heartbeatAt": "2023-07-01T23:23:09.242440",
+    "startedAt": "2023-07-01T23:23:08.418244",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:\\Users\\ECG Student09\\Documents\\GitHub\\Neural Python Network\\wandb Sample Project.py",
+    "codePath": "wandb Sample Project.py",
+    "host": "LAPTOP-QTG8VKJ2",
+    "username": "ECG Student09",
+    "executable": "C:\\Users\\ECG Student09\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 1101.0,
+        "min": 0.0,
+        "max": 1101.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1101.0,
+            "min": 0.0,
+            "max": 1101.0
+        }
+    ],
+    "disk": {
+        "total": 115.23241806030273,
+        "used": 87.83786010742188
+    },
+    "memory": {
+        "total": 3.80780029296875
+    }
+}
